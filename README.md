@@ -1,4 +1,4 @@
-- 👋 Hi .I am 1/2TOM
+- 👋 Hi .I am Haftom
 <!---
 Haftom19/Haftom19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
