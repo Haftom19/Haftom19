@@ -1,5 +1,5 @@
 - 👋 Hi .I am Haftom
-- Student at 42 wolfsburg and warsaw university of Technology
+- Student warsaw university of Technology
 - LinkedIn-https://www.linkedin.com/in/haftom-solomon-76645419b/
 <!---
 Haftom19/Haftom19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
