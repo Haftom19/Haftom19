@@ -1,5 +1,5 @@
 - 👋 Hi .I am Haftom
-- Student at warsaw university of Technology
+- Software engineer(Embedded C/C++)
 - LinkedIn-https://www.linkedin.com/in/haftom-solomon-76645419b/
 - portfolio https://haftom.carrd.co/
 <!---
